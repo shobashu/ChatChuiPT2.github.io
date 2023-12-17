@@ -28,7 +28,7 @@ h
 
 
 <p align="center">
-{% map_rb.html %} 
+[file:///C:/Users/shuji/ADA_Project/map_rb.html](map_rb.html)
 </p>
 
 # **What characteristic(s) exhibit(s) seasonal behavior?**
