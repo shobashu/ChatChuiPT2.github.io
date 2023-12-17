@@ -15,3 +15,5 @@ Data come the american website [RateBeer](https://www.ratebeer.com/), for a peri
 <p align="center">
 {% include map_rb.html %} 
 </p>
+
+## **Test**
