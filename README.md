@@ -23,14 +23,6 @@ h
 
 h
 
-
-
-
-
-<p align="center">
-<iframe src="map_ba.html" width="100%" height="600"></iframe>
-</p>
-
 # **What characteristic(s) exhibit(s) seasonal behavior?**
 
 ## **Exploration of Characteristics Specific to Users**
