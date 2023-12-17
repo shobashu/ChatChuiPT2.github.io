@@ -9,3 +9,7 @@ Winter is a season for brown beers, high on alcohol to warm us up, while summer 
 <img align="left" width="200" height="200" src="\assets\img\beer.jpg">
 
 Data come the american website [RateBeer](https://www.ratebeer.com/), for a period of 17 years ranging from 2001 to 2017.  
+
+<p align="center">
+{% include map_rb.html %} 
+</p>
