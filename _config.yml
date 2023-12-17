@@ -1,9 +1,5 @@
 theme: jekyll-theme-minimal
 title: ChatChuiPT Website
 description: We are the ChatChuiPT team and we love beers
-show_downloads: True
-navigation:
-  - title: Home
-    url: /
-  - title: Example
-    url: example
+show_downloads: False
+
