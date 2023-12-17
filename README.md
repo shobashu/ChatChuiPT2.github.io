@@ -26,7 +26,7 @@ h
 
 
 <p align="center">
-{% include map_rb.html %} 
+{% map_rb.html %} 
 </p>
 
 ## **Test**
