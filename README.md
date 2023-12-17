@@ -6,7 +6,7 @@ Winter is a season for brown beers, high on alcohol to warm us up, while summer 
 - This project aims mainly at studying the beer trends based on seasons.
 - In fact, each individual may tend to consume different beers based on its mood or feeling influenced by the season.
 
-<img align="left" width="200" height="200" src="\ada-template-website\assets\img\beer.jpg">
+<img align="left" width="200" height="200" src="\assets\img\beer.jpg">
 
 Data come the american website [RateBeer](https://www.ratebeer.com/), for a period of 17 years ranging from 2001 to 2017.  
 h
